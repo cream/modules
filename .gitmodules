@@ -1,0 +1,12 @@
+[submodule "session"]
+	path = session
+	url = http://github.com/cream/session.git
+[submodule "melange"]
+	path = melange
+	url = http://github.com/cream/melange.git
+[submodule "melange-control"]
+	path = melange-control
+	url = http://github.com/cream/melange-control.git
+[submodule "collector"]
+	path = collector
+	url = http://github.com/cream/collector.git
