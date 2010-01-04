@@ -10,3 +10,6 @@
 [submodule "collector"]
 	path = collector
 	url = http://github.com/cream/collector.git
+[submodule "console"]
+	path = console
+	url = git://github.com/cream/console.git
