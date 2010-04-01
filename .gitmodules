@@ -13,3 +13,6 @@
 [submodule "console"]
 	path = console
 	url = git://github.com/cream/console.git
+[submodule "hotkey-manager"]
+	path = hotkey-manager
+	url = git://github.com/cream/hotkey-manager.git
