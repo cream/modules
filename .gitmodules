@@ -16,3 +16,6 @@
 [submodule "hotkey-manager"]
 	path = hotkey-manager
 	url = git://github.com/cream/hotkey-manager.git
+[submodule "appindicators-watcher"]
+	path = appindicators-watcher
+	url = git://github.com/cream/appindicators-watcher.git
